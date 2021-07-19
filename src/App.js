@@ -26,7 +26,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path="/" exact component={Home} />
+          <Route path="/E-Commerce-Amazon-clone" exact component={Home} />
           <Route path="/checkout" component={Checkout} />
           <Route path="/signin" component={Login} />
         </Switch>
