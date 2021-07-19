@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-Amazon-clone/static/css/main.78be10cc.chunk.css",
+    "main.js": "/E-Commerce-Amazon-clone/static/js/main.681aa1ad.chunk.js",
+    "main.js.map": "/E-Commerce-Amazon-clone/static/js/main.681aa1ad.chunk.js.map",
+    "runtime-main.js": "/E-Commerce-Amazon-clone/static/js/runtime-main.969c39d6.js",
+    "runtime-main.js.map": "/E-Commerce-Amazon-clone/static/js/runtime-main.969c39d6.js.map",
+    "static/js/2.a90e9e53.chunk.js": "/E-Commerce-Amazon-clone/static/js/2.a90e9e53.chunk.js",
+    "static/js/2.a90e9e53.chunk.js.map": "/E-Commerce-Amazon-clone/static/js/2.a90e9e53.chunk.js.map",
+    "index.html": "/E-Commerce-Amazon-clone/index.html",
+    "static/css/main.78be10cc.chunk.css.map": "/E-Commerce-Amazon-clone/static/css/main.78be10cc.chunk.css.map",
+    "static/js/2.a90e9e53.chunk.js.LICENSE.txt": "/E-Commerce-Amazon-clone/static/js/2.a90e9e53.chunk.js.LICENSE.txt",
+    "static/media/amazon-bg.37e38a1c.jpg": "/E-Commerce-Amazon-clone/static/media/amazon-bg.37e38a1c.jpg",
+    "static/media/amazon-bg1.7d4533da.jpg": "/E-Commerce-Amazon-clone/static/media/amazon-bg1.7d4533da.jpg",
+    "static/media/amazon-bg3.83edc3ad.jpg": "/E-Commerce-Amazon-clone/static/media/amazon-bg3.83edc3ad.jpg",
+    "static/media/amazon-bg4.e55aaf9b.jpg": "/E-Commerce-Amazon-clone/static/media/amazon-bg4.e55aaf9b.jpg",
+    "static/media/amazon-bg5.d7c70470.jpg": "/E-Commerce-Amazon-clone/static/media/amazon-bg5.d7c70470.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.969c39d6.js",
+    "static/js/2.a90e9e53.chunk.js",
+    "static/css/main.78be10cc.chunk.css",
+    "static/js/main.681aa1ad.chunk.js"
+  ]
+}
